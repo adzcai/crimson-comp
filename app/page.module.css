@@ -1,0 +1,12 @@
+.articleForm {
+  max-width: 32rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.articleEditor {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-width: 2px;
+  border-color: black;
+}
